@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Alamofire-Gloss"
-  s.version          = "3.0.1"
+  s.version          = "4.0.0"
   s.summary          = "Convenience Gloss bindings for Alamofire."
   s.description      = <<-EOS
     [Gloss](https://github.com/hkellaway/Gloss) bindings for

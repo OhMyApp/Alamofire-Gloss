@@ -1,6 +1,7 @@
 # Change Log
 `Alamofire-Gloss` adheres to [Semantic Versioning](http://semver.org/).
 
+- [4.0.0](#400)
 - [3.0.1](#301)
 - [3.0.0](#300)
 - [2.1.0](#210)
@@ -8,6 +9,15 @@
 - [2.0.0](#200)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+---
+
+## [4.0.0](https://github.com/spxrogers/Alamofire-Gloss/releases/tag/4.0.0)
+
+#### Major Update
+- Swift 5 support 🎉
+- Gloss 3.1.0 support 😄
+- Alamofire 5.1 support 🔥
 
 ---
 
